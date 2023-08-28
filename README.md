@@ -5,3 +5,4 @@
 24/8/23 - To sketch a login info
 25/8/23 - How to download figma
 26/8/23 - How to use figma (basics)
+28/8/23 - Some more tools in figma
