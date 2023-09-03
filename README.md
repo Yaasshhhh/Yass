@@ -8,3 +8,4 @@
 28/8/23 - Some more tools in figma
 29/8/23 - To sketch an example of any app such as amazon
 31/8/23 - To add protoype in figma
+1/9/23 - To sketch an app with prototype in figma
