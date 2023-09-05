@@ -9,3 +9,5 @@
 29/8/23 - To sketch an example of any app such as amazon
 31/8/23 - To add protoype in figma
 1/9/23 - To sketch an app with prototype in figma
+2/9/23 - To rectify minute mistakes
+5/9/23 - To sketch an app completely
