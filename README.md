@@ -11,3 +11,6 @@
 1/9/23 - To sketch an app with prototype in figma
 2/9/23 - To rectify minute mistakes
 5/9/23 - To sketch an app completely
+6/9/23 - works in figma
+8/9/23 - to sketch 30 pages 
+9/9/23 - 
