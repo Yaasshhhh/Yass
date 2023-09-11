@@ -13,4 +13,5 @@
 5/9/23 - To sketch an app completely
 6/9/23 - works in figma
 8/9/23 - to sketch 30 pages 
-9/9/23 - 
+9/9/23 - to sketch 15 pages
+11/9/23 - to sketch 50 pages 
